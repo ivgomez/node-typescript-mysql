@@ -14,3 +14,9 @@
 ## Commands
 
 - tsc --watch
+
+## Links
+
+- https://sequelize.org/
+- https://sequelize.org/master/manual/getting-started.html
+- https://tableplus.com/
