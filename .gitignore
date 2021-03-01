@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Compiled JavaScript files
+dist/**/*.js
+dist/**/*.js.map
+
+# Compiled Output for Firebase Functions
+dist
