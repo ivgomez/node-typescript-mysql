@@ -20,3 +20,4 @@
 - https://sequelize.org/
 - https://sequelize.org/master/manual/getting-started.html
 - https://tableplus.com/
+- https://www.freecodecamp.org/news/8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e/
